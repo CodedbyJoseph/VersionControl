@@ -4,7 +4,7 @@
 ```bash
 Make new repo in GitHub           
 git clone https://github.com/USERNAME/REPONAME.git  # start tracking a new project
-Note: We do not manually create a local vscode file
+Note: We do not manually create a local vscode folder
 ```
 
 ## Daily workflow
