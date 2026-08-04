@@ -4,15 +4,20 @@
 ```bash
 Make new repo in GitHub
 Log into GitHub in IDE  # authenticates local projects to push to repo
-git clone https://github.com/USERNAME/REPONAME.git  # locally clones repo and links pushes to that repo
+git clone https://github.com/USERNAME/REPONAME.git  # locally clones repo and enables pushes to / pulls from that repo
 ```
 
 ## Daily workflow
 ```bash
 cd into new project
 git add .                       # stage all changes
-git commit -m "what you did"    # save checkpoint
+git commit -m "what you did"    # save checkpoint locally
 git push                        # back up to GitHub
+```
+
+## Working with a team/multiple local clones
+```bash
+git pull                        # retrieves latest code from repo into your local clone
 ```
 
 ## Check your history
