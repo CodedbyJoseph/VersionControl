@@ -2,9 +2,9 @@
 
 ## First time setting up a project
 ```bash
-Make new repo in GitHub           
-git clone https://github.com/USERNAME/REPONAME.git  # start tracking a new project
-Note: We do not manually create a local vscode folder
+Make new repo in GitHub
+Log into GitHub in IDE  # authenticates local projects to push to repo
+git clone https://github.com/USERNAME/REPONAME.git  # locally clones repo and links pushes to that repo
 ```
 
 ## Daily workflow
